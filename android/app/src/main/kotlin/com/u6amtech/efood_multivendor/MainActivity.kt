@@ -1,4 +1,4 @@
-package com.sixamtech.stack_food_vandor
+package com.hatlifood.restaurantapp
 
 import io.flutter.embedding.android.FlutterActivity
 
